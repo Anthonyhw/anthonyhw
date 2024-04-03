@@ -1,9 +1,9 @@
 # Olá, eu sou o Anthony! 👋
 
-    Sou um desenvolvedor de software inserido no mundo da tecnologia desde 2021. 
-    Tenho experiência profissional no desenvolvimento de aplicações utilizando .NET e Angular, mas também gosto de me aventurar em outras tecnologias para continuar expandindo meu leque de habilidades. Gosto de trabalhar em projetos pessoais, onde posso aplicar meu conhecimento e explorar novas ideias.
+Sou um desenvolvedor de software inserido no mundo da tecnologia desde 2021. 
+Tenho experiência profissional no desenvolvimento de aplicações utilizando .NET e Angular, mas também gosto de me aventurar em outras tecnologias para continuar expandindo meu leque de habilidades. Gosto de trabalhar em projetos pessoais, onde posso aplicar meu conhecimento e explorar novas ideias.
 
-    Aqui compartilho alguns dos meus repositórios de estudo e meus principais projetos. Sinta-se à vontade para explorar e entrar em contato caso tenha alguma dúvida ou queira discutir oportunidades de colaboração!
+Aqui compartilho alguns dos meus repositórios de estudo e meus principais projetos. Sinta-se à vontade para explorar e entrar em contato caso tenha alguma dúvida ou queira discutir oportunidades de colaboração!
 
 
 # Tecnologias e ferramentas que uso no meu dia-a-dia
