@@ -35,8 +35,8 @@ Aqui compartilho alguns dos meus repositórios de estudo e meus principais proje
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 # Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyhw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Anthony GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyhw&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyhw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-dionisio/)
