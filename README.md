@@ -34,6 +34,7 @@ Aqui compartilho alguns dos meus repositórios de estudo e meus principais proje
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 # Github Stats
 ![Anthony GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyhw&show_icons=true&theme=dark&count_private=true)
