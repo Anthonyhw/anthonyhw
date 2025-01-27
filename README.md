@@ -39,6 +39,7 @@ Aqui compartilho alguns dos meus repositórios de estudo e meus principais proje
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
 
 # Github Stats
 ![Anthony GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyhw&show_icons=true&theme=dark&count_private=true)
